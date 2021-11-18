@@ -1,0 +1,16 @@
+{
+ "name": "emptystuff",
+ "version": "4.0.2",
+ "description": "Useless package",
+ "license": "MIT",
+ "author": "TecDeveloper",
+ "repository": "tecdeveloper/emptystuff",
+ "main": "index.js",
+ "keywords": [
+  "emptystuff",
+  "npm",
+  "package",
+  "tecdeveloper"
+ ],
+ "dependencies": {}
+}
